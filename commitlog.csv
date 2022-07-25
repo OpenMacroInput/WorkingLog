@@ -1,0 +1,22 @@
+2022-07-25 23:07:20 +0200;d5517386756238d4ba92f451a42bd102e552e00c;Create ExportFullLog.bat
+2022-07-25 23:06:59 +0200;a9fcf302c95d1814ce5d70bcbae73d8dd8bd6527;Create ExportFullLogPerLine.bat
+2022-07-25 22:58:40 +0200;1fab12b9f821021d0aeb62c905a72aea129151cd;Out: Good work but still need some cleaning and to be sure.
+2022-07-25 22:57:51 +0200;5adc9ef8d8bc8a41fd54f4816b9f4bf203f91bf0;Log: Save of a first good looking draft version
+2022-07-25 15:18:07 +0200;21cdcb67b8e18f94cf5d64bf368a19c3e7cf7f60;Log: Did a break of several hours for social reason. Let's continue the code.
+2022-07-25 10:24:19 +0200;0fac80a7f31640f509279ccef90253b3a05758e4;In-10h00: Ok now that the code is dirty but the idea is here, I will work with TDD. Create an example an check one by one that the interface do what It need in the demo.
+2022-07-24 23:36:49 +0200;8e7ca06506e0b285ba0a28892f0dbb9040c19b91;Out: On the end I put to bin the version of this morning and redesgin more clean version the night. Now mosquito are pushing me to bed.
+2022-07-24 16:21:40 +0200;64116344e38229f98913ec53846c8479d9b2fed0;Log: I have difficulty to think. Subject is complexe and it tired me quickly.
+2022-07-24 16:21:12 +0200;cc0cabb8eb64f27f4611ef47933ddca3c0ca5598;In-11h00: Try to remake the boolean time switch with Date time.
+2022-07-23 21:56:17 +0200;216ab23d997762f6d860a431db7b6e2d61e83583;Out: Need to sleep, and continue the date time tomorrow that kind of is important for the tool but don't have the priority.
+2022-07-23 19:15:35 +0200;c81944cdaaefb405364ea3084fd7c1917bb63e75;Log: Coding the NamedBoolean time swithc register for second time but with DateTime this time. based on the abstract interface.
+2022-07-23 15:09:30 +0200;1684e2d571437ab936458ba39408bda75ade168b;Log: Testing the Inamedbooleanregister code and switching to interface of timeswitchregister
+2022-07-23 12:53:14 +0200;7114a8486f8fe516ad5197c4459aa8ce0dba1e93;Log: Add option to have direct set get access to a register as mandatory.
+2022-07-23 12:28:01 +0200;7ab3009348a36be4f28994336da729fb038378b2;Log: Continue on basic interface and iregister
+2022-07-23 12:27:39 +0200;1d38159350cff1f929428972e563a97e73434767;In-10h00: work on basic interface of omi
+2022-07-22 22:31:42 +0200;a32e829d2b897b50c5bf5a5c32b13f45b49439e1;Log: Try a microphone in a Stethoscope to check if we can trigger impute on OMI later.
+2022-07-22 10:11:43 +0200;43089c169f00e746df2b473e45a51d6b88393a1b;In-10h00: Create quarantine folder for Interface to create that was define the other day.
+2022-07-22 10:10:58 +0200;a91de75939a6c10fbeaa5fdd404ef24b60febd1d;Log-Global-2022-07-21: Create interface then spend time working on GitHub and creating Patreon profile to have a better public access. Also push a zip of previous project as Last version.
+2022-07-21 14:11:13 +0200;39047eb21d2e26bdcdd24e20691b286403b9a384;Log-13h30: Make screenshot of OMI first MVP to transition to a more community driven one this year.
+2022-07-21 14:10:17 +0200;4e0d9f85c46e1c5208464ce9f4a76480e5aa7bf8;Log-9h00: Write down some structure of what should be in the core of OMI Core version.
+2022-07-21 14:09:06 +0200;2d9899e5a5b005dfeb8fe958b4d4ed382bb0b47f;In-10h00: Create some of the Git that are core part of OMI to put interface and default code in it.
+2022-07-21 14:07:18 +0200;e24ca893022586402d556907721e88e084707ca4;Initial commit
