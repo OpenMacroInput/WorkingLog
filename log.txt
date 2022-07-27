@@ -1,3 +1,58 @@
+commit e9804c7974f55c799c912dd6eac0e7e16be3a894
+Merge: 836a0c7 bf1e326
+Author: Eloi Stree <eloistree@gmail.com>
+Date:   Wed Jul 27 20:15:07 2022 +0200
+
+    Out: I have work on I Collection in time switch and add a demo with a frame per seconds concept
+
+commit 836a0c70f5624a7bf242df8afacf6607f1391d4f
+Author: Eloi Stree <eloistree@gmail.com>
+Date:   Wed Jul 27 20:14:29 2022 +0200
+
+    Out: I have work on I Collection in time switch and add a demo with a frame per seconds concept
+
+commit bf1e326194ffe845a3b2f7f56ff83018285f7f91
+Author: Open Macro Input <99685407+OpenMacroInput@users.noreply.github.com>
+Date:   Wed Jul 27 16:45:33 2022 +0200
+
+    Out: Need a break, I will give something to eat to plants and animals.
+
+commit d333b7ed5f1e862ca8ca4fef726fd7bdc6f90f34
+Author: Open Macro Input <99685407+OpenMacroInput@users.noreply.github.com>
+Date:   Wed Jul 27 16:44:51 2022 +0200
+
+    In-10h00: Yeah, I know it take some time but sill on swithc register. I works some "bug" and created a interface for collection in the register .
+
+commit 33fff4ed2c27f563c39b65b8cdb6c7d6a6f98d35
+Author: Open Macro Input <99685407+OpenMacroInput@users.noreply.github.com>
+Date:   Tue Jul 26 23:16:20 2022 +0200
+
+    Out: still some bad code in counting time but going forward.
+
+commit f8b8e7a041d553f3ae388ddd6a258e757bba360a
+Author: Open Macro Input <99685407+OpenMacroInput@users.noreply.github.com>
+Date:   Tue Jul 26 20:19:21 2022 +0200
+
+    Log:Created some code around to check the dual date extraction of time switch register and doing shit.
+
+commit d97504ab86abb063f8a8d6bb39ccaaaa8b2204a0
+Author: Open Macro Input <99685407+OpenMacroInput@users.noreply.github.com>
+Date:   Tue Jul 26 20:18:42 2022 +0200
+
+    Log-18h00: Played with jar top to make sound to check if we can track them with microphone.
+
+commit e36b8c9a88f060fa5ffd9b3ec39ee0bf31eb455e
+Author: Open Macro Input <99685407+OpenMacroInput@users.noreply.github.com>
+Date:   Tue Jul 26 10:37:39 2022 +0200
+
+    In-10h30: Work on more complexe part and demo of the switch time register.
+
+commit e8ec246926948ac33dd759f8db228ae8d4d2d879
+Author: Eloi Stree <eloistree@gmail.com>
+Date:   Mon Jul 25 23:22:06 2022 +0200
+
+    Save as CSV
+
 commit d5517386756238d4ba92f451a42bd102e552e00c
 Author: Open Macro Input <99685407+OpenMacroInput@users.noreply.github.com>
 Date:   Mon Jul 25 23:07:20 2022 +0200
